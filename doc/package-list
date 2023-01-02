@@ -1,0 +1,5 @@
+deploy.project.application.starter
+deploy.project.application.starter.controllers
+deploy.project.application.starter.model
+deploy.project.application.starter.repository
+deploy.project.application.starter.service
